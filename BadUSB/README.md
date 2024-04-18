@@ -1,4 +1,4 @@
-#FF5733
+`#FF5733`
 ********************* \BAD USB\ ********************* \
 
 Welcome to my collection of BadUSB Scripts (Which i should add more soon)\ 
