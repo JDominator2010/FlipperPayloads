@@ -1,6 +1,6 @@
 ********************* \BAD USB\ ********************* 
 
-Welcome to my collection of BadUSB Scripts (Which i should add more soon)\ 
+Welcome to my collection of BadUSB Scripts (Which i should add more soon)
 \
 Feel free to use these in any scenario but remember: \
 \
