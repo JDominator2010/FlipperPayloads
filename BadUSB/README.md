@@ -1,5 +1,4 @@
-`#FF5733`
-********************* \BAD USB\ ********************* \
+********************* \BAD USB\ ********************* 
 
 Welcome to my collection of BadUSB Scripts (Which i should add more soon)\ 
 \
@@ -11,4 +10,4 @@ I am NOT responsible for any damage to any devices \
 I am NOT responsible for any legal troubles you get into with these files * ***DONT DO IT*** *  \
 *********** **REMINDER** *********** \
 \
-********************* \END\ ********************* \
+********************* \END\ ********************* 

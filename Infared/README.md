@@ -1,5 +1,4 @@
-`#FF5733`
-********************* \Infared\ ********************* \
+********************* \Infared\ ********************* 
 
 Welcome to my collection of Infared Saves (Which i should add more soon)\ 
 \
@@ -13,4 +12,4 @@ I am NOT responsible for any damage to any devices \
 I am NOT responsible for any legal troubles you get into with these files * ***DONT DO IT*** *  \
 *********** **REMINDER** *********** \
 \
-********************* \END\ ********************* \
+********************* \END\ ********************* 
