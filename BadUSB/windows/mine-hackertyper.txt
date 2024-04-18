@@ -1,0 +1,25 @@
+REM open harmless hackertyper
+
+REM open page
+GUI r
+DELAY 200
+STRING http://geektyper.com/plain
+DELAY 200
+ENTER 
+DELAY 300
+F11 
+DELAY 50
+STRING asdf;lkasjdf;lkajsdf;lkajsdf;lkjasd faslkdjfa;lkjasdf;lkjasd f;lkjasdfl;kjasdlf;kj lkasdflkaslkdfjaslkdfjlaksjf;laksdjflaksdjfl;kasjdf
+DELAY 40
+STRING asaokskdfl;kasjdfl;kajsdfl;kasdflk;asdflk;jasdflk;jasdflkajsdf;laksjdf;alskdjfa;lskdjfjasl;dfkjasd;lfkjasdf;lkjasdf;lkjasdf
+DELAY 300
+ENTER 
+DELAY 1500
+ESC 
+STRING 1 2 3 4 5 6 7 8 9
+STRING asd;klfjasdl;kfjasldkfjal;skdfjal;skdfj;laksdjf;lkadsjf;lkajsdf;lkajsd;lkfja;lksdjf;laksdjf;lajs;dlkfj
+SHIFT 
+DELAY 3000
+ESC 
+STRING as;ldkfjasd;flkjasdf;laksjdf;lkjasdfl;kjasdf;lkajsdfl;kjasdf;lkjasdf;lkjasdf
+REPEAT 500
